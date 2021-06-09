@@ -1,0 +1,328 @@
+
+g1_grader_garage.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: true
+  xy: 2, 256
+  size: 275, 55
+  orig: 275, 55
+  offset: 0, 0
+  index: -1
+Detail4
+  rotate: false
+  xy: 239, 679
+  size: 94, 18
+  orig: 94, 18
+  offset: 0, 0
+  index: -1
+Detail5
+  rotate: false
+  xy: 581, 902
+  size: 174, 98
+  orig: 174, 98
+  offset: 0, 0
+  index: -1
+ENGINE
+  rotate: false
+  xy: 2, 868
+  size: 295, 132
+  orig: 295, 132
+  offset: 0, 0
+  index: -1
+H2
+  rotate: true
+  xy: 41, 153
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+H3
+  rotate: true
+  xy: 299, 868
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+Kovsh2_handle
+  rotate: false
+  xy: 865, 778
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+Kovsh_main
+  rotate: false
+  xy: 239, 699
+  size: 121, 167
+  orig: 121, 167
+  offset: 0, 0
+  index: -1
+Layer 195
+  rotate: true
+  xy: 947, 728
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Layer 654
+  rotate: true
+  xy: 335, 668
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Layer 660
+  rotate: true
+  xy: 912, 698
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: true
+  xy: 362, 647
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+Podves1
+  rotate: false
+  xy: 932, 914
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+SVET
+  rotate: false
+  xy: 41, 110
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Shad1
+  rotate: true
+  xy: 2, 2
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+Sit1
+  rotate: true
+  xy: 60, 540
+  size: 132, 171
+  orig: 132, 171
+  offset: 0, 0
+  index: -1
+Tube
+  rotate: false
+  xy: 2, 96
+  size: 37, 158
+  orig: 37, 158
+  offset: 0, 0
+  index: -1
+ZERKALO
+  rotate: false
+  xy: 41, 200
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+det_1
+  rotate: true
+  xy: 503, 655
+  size: 142, 36
+  orig: 142, 36
+  offset: 0, 0
+  index: -1
+fara3
+  rotate: false
+  xy: 636, 648
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+gastank
+  rotate: true
+  xy: 965, 825
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+gastank_cap
+  rotate: false
+  xy: 947, 702
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+gid3
+  rotate: true
+  xy: 859, 705
+  size: 13, 51
+  orig: 13, 51
+  offset: 0, 0
+  index: -1
+gid4
+  rotate: true
+  xy: 932, 894
+  size: 18, 83
+  orig: 18, 83
+  offset: 0, 0
+  index: -1
+gidr1
+  rotate: false
+  xy: 603, 643
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+gidr2
+  rotate: true
+  xy: 541, 637
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+gidr5
+  rotate: true
+  xy: 712, 695
+  size: 86, 95
+  orig: 86, 95
+  offset: 0, 0
+  index: -1
+gidr6
+  rotate: false
+  xy: 965, 769
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+handlekovsh_small
+  rotate: false
+  xy: 809, 705
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+koleso1
+  rotate: false
+  xy: 362, 780
+  size: 137, 138
+  orig: 137, 138
+  offset: 0, 0
+  index: -1
+koleso2
+  rotate: false
+  xy: 362, 780
+  size: 137, 138
+  orig: 137, 138
+  offset: 0, 0
+  index: -1
+koleso3
+  rotate: false
+  xy: 362, 780
+  size: 137, 138
+  orig: 137, 138
+  offset: 0, 0
+  index: -1
+kovsh_small
+  rotate: true
+  xy: 859, 720
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+kovshholder_1
+  rotate: true
+  xy: 557, 907
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+krylo_1
+  rotate: true
+  xy: 501, 799
+  size: 119, 54
+  orig: 119, 54
+  offset: 0, 0
+  index: -1
+krylo_2
+  rotate: true
+  xy: 2, 533
+  size: 333, 56
+  orig: 333, 56
+  offset: 0, 0
+  index: -1
+podves2
+  rotate: false
+  xy: 743, 783
+  size: 120, 108
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+podves3
+  rotate: false
+  xy: 541, 684
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+roof
+  rotate: false
+  xy: 60, 674
+  size: 177, 192
+  orig: 177, 192
+  offset: 0, 0
+  index: -1
+shad2
+  rotate: false
+  xy: 299, 920
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+shad_321
+  rotate: true
+  xy: 557, 793
+  size: 107, 125
+  orig: 107, 125
+  offset: 0, 0
+  index: -1
+shadow _main
+  rotate: false
+  xy: 2, 1002
+  size: 747, 19
+  orig: 747, 19
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 626, 688
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+windows
+  rotate: true
+  xy: 757, 893
+  size: 128, 173
+  orig: 128, 173
+  offset: 0, 0
+  index: -1
+worker
+  rotate: false
+  xy: 684, 793
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1
+worker_hand
+  rotate: true
+  xy: 676, 651
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
