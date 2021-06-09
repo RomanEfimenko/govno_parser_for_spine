@@ -1,0 +1,209 @@
+
+g2_tipper_garage.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer1402
+  rotate: false
+  xy: 835, 727
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+Layer147
+  rotate: false
+  xy: 638, 556
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+Layer1472
+  rotate: false
+  xy: 264, 151
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+SVET
+  rotate: true
+  xy: 528, 810
+  size: 207, 286
+  orig: 207, 286
+  offset: 0, 0
+  index: -1
+benzobak
+  rotate: false
+  xy: 355, 228
+  size: 106, 60
+  orig: 106, 60
+  offset: 0, 0
+  index: -1
+benzobak_cap
+  rotate: false
+  xy: 964, 889
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+cilindr_1
+  rotate: false
+  xy: 494, 569
+  size: 26, 216
+  orig: 26, 216
+  offset: 0, 0
+  index: -1
+cilindr_2
+  rotate: false
+  xy: 461, 370
+  size: 35, 159
+  orig: 35, 159
+  offset: 0, 0
+  index: -1
+dverka
+  rotate: true
+  xy: 528, 787
+  size: 21, 155
+  orig: 21, 155
+  offset: 0, 0
+  index: -1
+golova
+  rotate: false
+  xy: 354, 177
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+koleso
+  rotate: false
+  xy: 408, 187
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+krepezh_2
+  rotate: false
+  xy: 2, 787
+  size: 524, 230
+  orig: 524, 230
+  offset: 0, 0
+  index: -1
+krug_2
+  rotate: false
+  xy: 720, 659
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+krulo_2
+  rotate: true
+  xy: 638, 648
+  size: 137, 80
+  orig: 137, 80
+  offset: 0, 0
+  index: -1
+krylo
+  rotate: false
+  xy: 105, 243
+  size: 248, 45
+  orig: 248, 45
+  offset: 0, 0
+  index: -1
+lesenka
+  rotate: true
+  xy: 105, 193
+  size: 48, 157
+  orig: 48, 157
+  offset: 0, 0
+  index: -1
+nutro
+  rotate: false
+  xy: 816, 819
+  size: 146, 94
+  orig: 146, 94
+  offset: 0, 0
+  index: -1
+okno
+  rotate: false
+  xy: 816, 915
+  size: 179, 102
+  orig: 179, 102
+  offset: 0, 0
+  index: -1
+platforma
+  rotate: true
+  xy: 24, 200
+  size: 585, 79
+  orig: 585, 79
+  offset: 0, 0
+  index: -1
+porog
+  rotate: false
+  xy: 24, 143
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+ruka
+  rotate: false
+  xy: 685, 791
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+ruka_2
+  rotate: true
+  xy: 2, 100
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 134
+  size: 651, 20
+  orig: 651, 20
+  offset: 0, 0
+  index: -1
+spr_macadam_in_car_hd
+  rotate: false
+  xy: 105, 531
+  size: 387, 254
+  orig: 387, 254
+  offset: 0, 0
+  index: -1
+spr_sand_in_car_hd
+  rotate: false
+  xy: 105, 290
+  size: 354, 239
+  orig: 354, 239
+  offset: 0, 0
+  index: -1
+tors
+  rotate: false
+  xy: 997, 990
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+whee
+  rotate: true
+  xy: 522, 556
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1
+wheel_2
+  rotate: false
+  xy: 522, 671
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+wheel_3
+  rotate: false
+  xy: 720, 694
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1

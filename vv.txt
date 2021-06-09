@@ -1,0 +1,744 @@
+-----
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\all_locomotive_garage.json
+-----
+ACTION - action_1
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - action_2
+TIME - 2.0
+FRAMES - 60
+2.0
+--------------
+ACTION - action_3
+TIME - 2.0
+FRAMES - 60
+2.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\all_locomotive_magic_garage.json
+-----
+ACTION - action_1
+TIME - 5.1
+FRAMES - 153
+5.1
+--------------
+ACTION - action_2
+TIME - 1.5
+FRAMES - 45
+1.5
+--------------
+ACTION - action_3
+TIME - 1.5
+FRAMES - 45
+1.5
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\all_locomotive_western_garage.json
+-----
+ACTION - action_1
+TIME - 4.5
+FRAMES - 135
+4.5
+--------------
+ACTION - action_2
+TIME - 2.0
+FRAMES - 60
+2.0
+--------------
+ACTION - action_3
+TIME - 2.0
+FRAMES - 60
+2.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g10_blue_freight_car_garage.json
+-----
+ACTION - action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - wash_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g11_glass_car_garage.json
+-----
+ACTION - action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - wash_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g12_rail_crane_without_body_garage.json
+-----
+ACTION - action
+TIME - 3.8333
+FRAMES - 115
+3.8333333333333335
+--------------
+ACTION - gasstation_action
+TIME - 3.3
+FRAMES - 99
+3.3
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - wash_action
+TIME - 3.3
+FRAMES - 99
+3.3
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g13_green_freight_car_garage.json
+-----
+ACTION - action
+TIME - 4.4
+FRAMES - 132
+4.4
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 4.4
+FRAMES - 132
+4.4
+--------------
+ACTION - wash_action
+TIME - 4.4
+FRAMES - 132
+4.4
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g14_rail_aerial_platform_garage.json
+-----
+ACTION - action
+TIME - 3.8333
+FRAMES - 115
+3.8333333333333335
+--------------
+ACTION - gasstation_action
+TIME - 3.3
+FRAMES - 99
+3.3
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 3.3
+FRAMES - 99
+3.3
+--------------
+ACTION - wash_action
+TIME - 3.3
+FRAMES - 99
+3.3
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g15_trolley_garage.json
+-----
+ACTION - action
+TIME - 3.6
+FRAMES - 108
+3.6
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 3.6
+FRAMES - 108
+3.6
+--------------
+ACTION - storage_kostil_idle
+TIME - 0.7
+FRAMES - 21
+0.7
+--------------
+ACTION - storage_kostil_action
+TIME - 2.1667
+FRAMES - 65
+2.1666666666666665
+--------------
+ACTION - wash_action
+TIME - 3.6
+FRAMES - 108
+3.6
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g16_locomotive_garage.json
+-----
+ACTION - action
+TIME - 5.5
+FRAMES - 165
+5.5
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g18_carriage_restaurant_garage.json
+-----
+ACTION - action
+TIME - 4.6667
+FRAMES - 140
+4.666666666666667
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 4.6667
+FRAMES - 140
+4.666666666666667
+--------------
+ACTION - wash_action
+TIME - 4.6667
+FRAMES - 140
+4.666666666666667
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g1_grader_garage.json
+-----
+ACTION - action
+TIME - 3.8333
+FRAMES - 115
+3.8333333333333335
+--------------
+ACTION - gasstation_action
+TIME - 3.3333
+FRAMES - 100
+3.3333333333333335
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - wash_action
+TIME - 3.3333
+FRAMES - 100
+3.3333333333333335
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g20_logger_garage.json
+-----
+ACTION - action
+TIME - 2.7333
+FRAMES - 82
+2.7333333333333334
+--------------
+ACTION - gasstation_action
+TIME - 2.0667
+FRAMES - 62
+2.066666666666667
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - wash_action
+TIME - 2.0667
+FRAMES - 62
+2.066666666666667
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g21_garbage_truck_garage.json
+-----
+ACTION - action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - wash_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g22_locomotive_garage.json
+-----
+ACTION - action
+TIME - 5.5
+FRAMES - 165
+5.5
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - wash_action
+TIME - 2.6667
+FRAMES - 80
+2.6666666666666665
+--------------
+ACTION - wsgm_action_1
+TIME - 6.0
+FRAMES - 180
+6.0
+--------------
+ACTION - wsgm_action_2
+TIME - 0.7
+FRAMES - 21
+0.7
+--------------
+ACTION - wsgm_action_quit
+TIME - 2.6667
+FRAMES - 80
+2.6666666666666665
+--------------
+ACTION - wsgm_idle_1
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - wsgm_idle_2
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g23_railway_carriage_adult_garage.json
+-----
+ACTION - action
+TIME - 3.6
+FRAMES - 108
+3.6
+--------------
+ACTION - animation
+TIME - 0.0
+FRAMES - 0
+0.0
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - wash_action
+TIME - 3.6
+FRAMES - 108
+3.6
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g26_old_truck_garage.json
+-----
+ACTION - action
+TIME - 3.0
+FRAMES - 90
+3.0
+--------------
+ACTION - action_stock_0
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - action_stock_1
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - action_stock_2
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - gasstation_action
+TIME - 2.5
+FRAMES - 75
+2.5
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 2.5
+FRAMES - 75
+2.5
+--------------
+ACTION - wash_action
+TIME - 2.5
+FRAMES - 75
+2.5
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g27_rail_pile_driver_garage.json
+-----
+ACTION - action
+TIME - 3.5
+FRAMES - 105
+3.5
+--------------
+ACTION - gasstation_action
+TIME - 3.0
+FRAMES - 90
+3.0
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - wash_action
+TIME - 3.0
+FRAMES - 90
+3.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g28_platform_with_container_garage.json
+-----
+ACTION - action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 4.3333
+FRAMES - 130
+4.333333333333333
+--------------
+ACTION - wash_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g29_technical_car_garage.json
+-----
+ACTION - action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+ACTION - wash_action
+TIME - 4.0
+FRAMES - 120
+4.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g2_tipper_garage.json
+-----
+ACTION - action
+TIME - 3.2
+FRAMES - 96
+3.2
+--------------
+ACTION - action_stock_0
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - action_stock_1
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - action_stock_2
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - gasstation_action
+TIME - 2.7
+FRAMES - 81
+2.7
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 2.7
+FRAMES - 81
+2.7
+--------------
+ACTION - wash_action
+TIME - 2.7
+FRAMES - 81
+2.7
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g30_locomotive_garage.json
+-----
+ACTION - action
+TIME - 5.5
+FRAMES - 165
+5.5
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - wash_action
+TIME - 5.5
+FRAMES - 165
+5.5
+--------------
+ACTION - wsgm_action_1
+TIME - 6.0
+FRAMES - 180
+6.0
+--------------
+ACTION - wsgm_action_2
+TIME - 0.7
+FRAMES - 21
+0.7
+--------------
+ACTION - wsgm_action_quit
+TIME - 2.6667
+FRAMES - 80
+2.6666666666666665
+--------------
+ACTION - wsgm_idle_1
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - wsgm_idle_2
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g31_mail_wagon_garage.json
+-----
+ACTION - action
+TIME - 3.6
+FRAMES - 108
+3.6
+--------------
+ACTION - storage_action
+TIME - 3.6
+FRAMES - 108
+3.6
+--------------
+ACTION - wash_action
+TIME - 3.6
+FRAMES - 108
+3.6
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g4_rail_stacker_garage.json
+-----
+ACTION - action
+TIME - 3.7
+FRAMES - 111
+3.7
+--------------
+ACTION - gasstation_action
+TIME - 3.2
+FRAMES - 96
+3.2
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 4.2
+FRAMES - 126
+4.2
+--------------
+ACTION - wash_action
+TIME - 3.2
+FRAMES - 96
+3.2
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g5_trolley_garage.json
+-----
+ACTION - action
+TIME - 6.7
+FRAMES - 201
+6.7
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 2.3
+FRAMES - 69
+2.3
+--------------
+ACTION - storage_idle
+TIME - 0.7
+FRAMES - 21
+0.7
+--------------
+ACTION - wash_action
+TIME - 6.7
+FRAMES - 201
+6.7
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g6_rail_excavator_garage.json
+-----
+ACTION - action
+TIME - 3.2333
+FRAMES - 97
+3.2333333333333334
+--------------
+ACTION - gasstation_action
+TIME - 2.7333
+FRAMES - 82
+2.7333333333333334
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - wash_action
+TIME - 2.7333
+FRAMES - 82
+2.7333333333333334
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g7_rail_concrete_mixer_garage.json
+-----
+ACTION - action
+TIME - 3.8333
+FRAMES - 115
+3.8333333333333335
+--------------
+ACTION - action_stock_0
+TIME - 0.5333
+FRAMES - 16
+0.5333333333333333
+--------------
+ACTION - action_stock_1
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - action_stock_2
+TIME - 0.2667
+FRAMES - 8
+0.26666666666666666
+--------------
+ACTION - gasstation_action
+TIME - 3.3
+FRAMES - 99
+3.3
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 3.3
+FRAMES - 99
+3.3
+--------------
+ACTION - wash_action
+TIME - 3.3
+FRAMES - 99
+3.3
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\g9_truck_mounted_crane_garage.json
+-----
+ACTION - action
+TIME - 3.5
+FRAMES - 105
+3.5
+--------------
+ACTION - action_stock_0
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - action_stock_1
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - action_stock_2
+TIME - 0.4
+FRAMES - 12
+0.4
+--------------
+ACTION - gasstation_action
+TIME - 3.0
+FRAMES - 90
+3.0
+--------------
+ACTION - parad
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - storage_action
+TIME - 3.0
+FRAMES - 90
+3.0
+--------------
+ACTION - wash_action
+TIME - 3.0
+FRAMES - 90
+3.0
+--------------
+PATH - C:\Users\Fima\Documents\GitLab\com-gokids-trains_code\trains_magic\trains_magic\datafiles\transport\animations\tb_iaster_egg\g9-flatbed-truck.json
+-----
+ACTION - action
+TIME - 5.8667
+FRAMES - 176
+5.866666666666666
+--------------
+ACTION - parade
+TIME - 0.6667
+FRAMES - 20
+0.6666666666666666
+--------------
+ACTION - __setup
+TIME - 0.0
+FRAMES - 0
+0.0
+--------------
